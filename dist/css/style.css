@@ -1,0 +1,36 @@
+:root {
+  --royal-purple: #7851a9;
+  --pale-gold: #EEE8AA;
+}
+
+body, input, textarea, button {
+  font-family: 'Berkshire Swash', cursive;
+  background-color: var(--royal-purple);
+  color: var(--pale-gold);
+}
+
+h1 {
+  font-size: 5em;
+  margin-top: 2%;
+  text-align: center;
+}
+
+p {
+  font-size: 2em;
+  margin-top: 2%;
+  text-align: center;
+}
+
+#restaurant {
+  width: 50%;
+  height: auto;
+  margin: 2% 25%;
+  border-style: solid;
+  border-color: var(--pale-gold);
+  border-width: 10px;
+}
+
+.container {
+  width: 50%;
+  margin: 2% 25%;
+}
