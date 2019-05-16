@@ -1,6 +1,6 @@
 # restaurant
 
-DOM manipulation using JavaScript modules managed by Webpack.
+DOM manipulation using JavaScript modules bundled by Webpack.
 
 Simon Tharby's solution to [Project: Restaurant Page](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page?ref=lnav), Organizing JavaScript Code section, Javascript unit, Odin Project.
 
