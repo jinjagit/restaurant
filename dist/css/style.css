@@ -21,14 +21,14 @@ body, input, textarea, button {
 
 h1 {
   font-size: 6em;
-  margin: 4% 0% 3% 0%;
+  margin: 4% 0% 1% 0%;
   text-align: center;
   text-shadow: -5px 1px 2px var(--dark-red);
 }
 
 h2 {
-  font-size: 3em;
-  margin-top: 2%;
+  font-size: 2em;
+  margin-bottom: 3%;
   text-align: center;
   text-shadow: -3px 1px 2px var(--dark-red);
 }
@@ -53,7 +53,7 @@ p {
 }
 
 #content {
-  padding: 30px;
+  padding: 50px;
   background-color: var(--mid-red);
 }
 
@@ -77,6 +77,16 @@ p {
   vertical-align: middle;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+#map {
+  display: block;
+  width: 70%;
+  height: auto;
+  margin: auto;
+  border-style: solid;
+  border-color: var(--pale-gold);
+  border-width: 5px;
 }
 
 /* spares */
