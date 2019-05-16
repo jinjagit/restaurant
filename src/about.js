@@ -24,7 +24,7 @@ const about = () => {
   content.appendChild(br3);
 
   const para4 = document.createElement('p');
-  para4.innerHTML = "Open: 1p.m. - 11p.m., Tuesday - Sunday.";
+  para4.innerHTML = "Open: 1 p.m. - 11 p.m., Tuesday - Sunday.";
   content.appendChild(para4);
 
   const br4 = document.createElement('br');
